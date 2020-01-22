@@ -1,0 +1,35 @@
+Go
+  name: Go
+
+BuildingLot
+  name: MEDITERRANEAN AVENUE
+  purPrice: 60
+  houses: 0
+  houseCost: 30
+
+BuildingLot
+  name: BALTIC AVENUE
+  purPrice: 60
+  houses: 3
+  houseCost: 30
+
+RailRoad
+  name: HAYDAR PASHA RAILROAD
+  purPrice: 200
+
+HumanPlayer
+  name: Fred
+  balance: 1020
+  bankrupt: false
+  occupiedSquareID: BALTIC AVENUE
+  owns: Reading RR
+  owns: Baltic Ave
+
+ComputerPlayer
+  name: TRON
+  balance: 1350
+  bankrupt: false
+  occupiedSquareID: MEDITERRANEAN AVENUE
+  owns: Mediterranean Ave
+
+END
